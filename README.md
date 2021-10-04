@@ -1,6 +1,6 @@
 # findhelpie
 
-A new Flutter application with using firebase and baic login flow using phone number
+A new Flutter application with using firebase and basic login flow using phone number
 
 ## Getting Started
 
